@@ -82,7 +82,7 @@
 .pw Pushback approved, facing west. 
 .pnw Pushback approved, facing north-west.
 .rbc Readback correct, report ready for startup / pushback.
-.clr Cleared to $arr, via flight planned route, expect radar vectors, climb $alt, squawk $asquawk
+.clr  cleared to $arr via $sid departure, maintain altitude $temp, squawk $squawk.
 .rrt Report ready for taxi. 
 .rft Are you ready for taxi?
 .tv Taxi via $1. 
